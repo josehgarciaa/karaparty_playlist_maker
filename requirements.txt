@@ -1,0 +1,5 @@
+yt-dlp
+pydub
+PyYAML
+openai
+requests 

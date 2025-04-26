@@ -1,0 +1,11 @@
+Initial project structure and documentation
+Add requirements.txt with core dependencies
+Implement CLI entry point and YouTube downloader module
+Add audio processing module with normalization placeholder
+Add playlist config loader for YAML
+Add metadata and lyrics retrieval placeholder
+Add AI recommendation module placeholder
+Add DJ agent playlist ordering placeholder
+Add output generation module placeholder
+Add utils.py for shared utilities
+Add example playlist.yml configuration 

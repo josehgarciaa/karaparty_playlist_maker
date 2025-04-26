@@ -1,0 +1,16 @@
+theme: "80s Dance Party"
+duration: 180
+blocks:
+  - name: "Chill Start"
+    duration: 30
+    instructions: "Keep it mellow and upbeat."
+  - name: "Main Dance"
+    duration: 120
+    instructions: "High-energy, danceable hits."
+  - name: "Wind Down"
+    duration: 30
+    instructions: "Slow things down, relaxing tracks."
+rules:
+  no_repeated_artists_within_minutes: 30
+  avoid_explicit_lyrics: true
+  genres: ["Pop", "Dance", "Electronic"] 
